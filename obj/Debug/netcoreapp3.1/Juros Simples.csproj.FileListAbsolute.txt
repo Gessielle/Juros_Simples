@@ -1,0 +1,13 @@
+C:\Users\POSITIVO\Desktop\PC1\Juros Simples\bin\Debug\netcoreapp3.1\Juros Simples.exe
+C:\Users\POSITIVO\Desktop\PC1\Juros Simples\bin\Debug\netcoreapp3.1\Juros Simples.deps.json
+C:\Users\POSITIVO\Desktop\PC1\Juros Simples\bin\Debug\netcoreapp3.1\Juros Simples.runtimeconfig.json
+C:\Users\POSITIVO\Desktop\PC1\Juros Simples\bin\Debug\netcoreapp3.1\Juros Simples.runtimeconfig.dev.json
+C:\Users\POSITIVO\Desktop\PC1\Juros Simples\bin\Debug\netcoreapp3.1\Juros Simples.dll
+C:\Users\POSITIVO\Desktop\PC1\Juros Simples\bin\Debug\netcoreapp3.1\Juros Simples.pdb
+C:\Users\POSITIVO\Desktop\PC1\Juros Simples\obj\Debug\netcoreapp3.1\Juros Simples.csprojAssemblyReference.cache
+C:\Users\POSITIVO\Desktop\PC1\Juros Simples\obj\Debug\netcoreapp3.1\Juros Simples.AssemblyInfoInputs.cache
+C:\Users\POSITIVO\Desktop\PC1\Juros Simples\obj\Debug\netcoreapp3.1\Juros Simples.AssemblyInfo.cs
+C:\Users\POSITIVO\Desktop\PC1\Juros Simples\obj\Debug\netcoreapp3.1\Juros Simples.csproj.CoreCompileInputs.cache
+C:\Users\POSITIVO\Desktop\PC1\Juros Simples\obj\Debug\netcoreapp3.1\Juros Simples.dll
+C:\Users\POSITIVO\Desktop\PC1\Juros Simples\obj\Debug\netcoreapp3.1\Juros Simples.pdb
+C:\Users\POSITIVO\Desktop\PC1\Juros Simples\obj\Debug\netcoreapp3.1\Juros Simples.genruntimeconfig.cache
